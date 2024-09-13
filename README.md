@@ -1,5 +1,7 @@
 # breakblockscli
 
+A CLI interface for https://breakblocks.com
+
 To install dependencies:
 
 ```bash
